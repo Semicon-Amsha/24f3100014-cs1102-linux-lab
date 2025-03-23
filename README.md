@@ -1,1 +1,2 @@
-# 24f3100014-cs1102-linux-lab
+# About Me
+Hi, I'm Rudra. I love Linux and open-source technologies!
